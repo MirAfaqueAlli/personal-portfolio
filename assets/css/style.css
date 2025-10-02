@@ -3543,8 +3543,7 @@ h1 {
 
     .footer-content {
         grid-template-columns: 1fr;
-        gap: 40px;
-    text-align: center;
+        gap: 35px;
     }
     
     .footer-brand {
@@ -3557,32 +3556,12 @@ h1 {
     }
     
     .footer-column {
-    text-align: center;
-    width: 100%;
-}
-
-.footer-column-title {
-    text-align: center;
-    font-size: 18px;
-    margin-bottom: 15px;
-    font-weight: 600;
-}
-
+        text-align: center;
+    }
     
     .footer-links {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 12px;
-    text-align: center;
-}
-
-.footer-link {
-    text-align: center;
-    display: block;
-    width: auto;
-}
-
+        align-items: center;
+    }
 
     .footer-bottom {
         flex-direction: column;
