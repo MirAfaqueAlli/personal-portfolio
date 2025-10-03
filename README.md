@@ -28,7 +28,7 @@ This portfolio highlights my journey as a developer and showcases my work throug
 ---
 
 ## 🖼️ Preview
-![Portfolio Preview](/assets/screenshot.png)
+![Portfolio Preview](/assets/images/Screenshot.png)
 
 ---
 
